@@ -3,8 +3,6 @@
 
 This project is a comprehensive solution to process, clean, smooth, and visualize moving trajectory data using powerful Python libraries like Pandas, Geopandas, Movingpandas, and Holoviews. The project focuses on the following tasks:
 
-
-
 ## Preprocessing 
 The project includes a preprocessing script that imports, transforms, and processes geospatial data.
 The script can also be extended to upload the data to S3 and then load it into Redshift.
